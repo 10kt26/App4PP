@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "/GWQzB8xzgGhN6pzOuRGm364AhlgpsHcmJIxeg1hmp4s9bFlvAhSE6lSQcC1310twbpFXnPfncDTGv/Z5MekPg==",
+  "success": true,
+  "projectFilePath": "I:\\kosatsu_ver1.3_readme\\Kosatsu\\Kosatsu\\Kosatsu.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\7203q\\.nuget\\packages\\google.apis\\1.61.0\\google.apis.1.61.0.nupkg.sha512",
+    "C:\\Users\\7203q\\.nuget\\packages\\google.apis.auth\\1.61.0\\google.apis.auth.1.61.0.nupkg.sha512",
+    "C:\\Users\\7203q\\.nuget\\packages\\google.apis.core\\1.61.0\\google.apis.core.1.61.0.nupkg.sha512",
+    "C:\\Users\\7203q\\.nuget\\packages\\google.apis.sheets.v4\\1.61.0.3113\\google.apis.sheets.v4.1.61.0.3113.nupkg.sha512",
+    "C:\\Users\\7203q\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
